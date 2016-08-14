@@ -1,3 +1,6 @@
+README
+
+***************************************************************
 This is an implementation of TSP using Christofides algorithm. 
 It also uses path improvement with 2-OPT. By combining
 Christofides with an upper bound of 3/2 and 2-OPT improvement,
@@ -13,4 +16,4 @@ Christofides in a Nutshell
 
 2-OPT
 1. Select edge (v1, v2) and (v3, v4).
-2. Replace edges with best pair such that is minimizes tour length.   
+2. Replace edges with best pair such that it minimizes tour length.   
