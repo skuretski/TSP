@@ -1,5 +1,7 @@
 README
 
+Original code written by Susan Kuretski, Ava Petley, and Robert Sparks
+Editing done by Susan Kuretski as marked
 ***************************************************************
 This is an implementation of TSP using Christofides algorithm. 
 It also uses path improvement with 2-OPT. By combining
